@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/" />
+           fetch="https://aosp.tuna.tsinghua.edu.cn" />
 
   <remote  name="Android4SAM"
            fetch="git://github.com/Android4SAM" />
